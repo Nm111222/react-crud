@@ -44,3 +44,29 @@ You don’t have to ever use `eject`. The curated feature set is suitable for sm
 You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
 
 To learn React, check out the [React documentation](https://reactjs.org/).
+
+
+
+=============== DEVELOPMENT ==============================
+
+
+Video - https://www.youtube.com/watch?v=R1uTPIOuT8s
+
+package.json
+
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "react-scripts": "5.0.1",
+    "typescript": "^4.9.5",
+    "web-vitals": "^2.1.4"
+
+Create App
+>	npx create-react-app react-crud - -template typescript
+>	cd react-crud
+>	npm start
+
+** removed
+        src/App.css, src/App.test.tsx, src/App.tsx
+
+
+
